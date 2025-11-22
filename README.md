@@ -1,4 +1,4 @@
-# AI in Production
+# AI in Production with Ed
 
 ## Deploy Gen AI and Agentic AI at Scale in 4 weeks
 
